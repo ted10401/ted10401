@@ -1,13 +1,3 @@
-### Hi there 👋
-
-I create open source packages about Unity Engine and create blog posts about the details.
-
-<p align='center'>
-<a href="https://tedsieblog.wordpress.com/"><img height="30" src="./Icons/wordpress.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ted-sie/"><img height="30" src="./Icons/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/tedsieblog"><img height="30" src="./Icons/facebook.png"></a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Ted Sie</h1>
 <h3 align="center">A passionate Unity developer from Taiwan.</h3>
 
