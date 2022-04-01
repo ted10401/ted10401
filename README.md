@@ -5,21 +5,24 @@
 
 - 🔭 I’m currently working on [FateSeekerII](https://store.steampowered.com/app/1559390/_/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://tedsieblog.wordpress.com/" target="blank"><img align="center" src="./Icons/wordpress.png" alt="tedsie" height="32" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/tedsie" target="blank"><img align="center" src="./Icons/linkedin.png" alt="tedsie" height="32" /></a>&nbsp;&nbsp;
 <a href="https://fb.com/tedsieblog" target="blank"><img align="center" src="./Icons/facebook.png" alt="tedsieblog" height="32" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img align="center" src="./Icons/csharp.png" alt="csharp" height="32"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img align="center" src="./Icons/jenkins.png" alt="jenkins" height="32"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" src="./Icons/unity.png" alt="unity" height="32"/> </a> </p>
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
+<a href="https://www.w3schools.com/cs/" target="blank"><img align="center" src="./Icons/csharp.png" alt="csharp" height="32"/></a>&nbsp;&nbsp;
+<a href="https://www.jenkins.io" target="blank"> <img align="center" src="./Icons/jenkins.png" alt="jenkins" height="32"/></a>&nbsp;&nbsp;
+<a href="https://unity.com/" target="blank"> <img align="center" src="./Icons/unity.png" alt="unity" height="32"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ted10401&show_icons=true&locale=en&layout=compact" alt="ted10401" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ted10401&show_icons=true&locale=en" alt="ted10401" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ted10401&" alt="ted10401" /></p>
+<h3 align="left">Stats</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ted10401&show_icons=true&locale=en&layout=compact" alt="ted10401" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ted10401&show_icons=true&locale=en" alt="ted10401" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ted10401&" alt="ted10401" />
 
 <!--
 **ted10401/ted10401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
