@@ -3,23 +3,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ted10401&label=Profile%20views&color=0e75b6&style=flat" alt="ted10401" /> </p>
 
-- 🔭 I’m currently working on [FateSeekerII](https://store.steampowered.com/app/1559390/_/)
+### Projects
+- [FateSeekerII](https://store.steampowered.com/app/1559390) (Currently working on)
+- [Supercharged World Cup](https://www.youtube.com/watch?v=h5hp-VUBJXk)
+- [Rocketball: Championship Cup](https://www.youtube.com/watch?v=kt6DlSfHrjc)
+- [Independence Day : Extinction](https://www.youtube.com/watch?v=MZbq3Q0kqWA)
+- [GuiltyGate](https://www.youtube.com/watch?v=B4bO-m5Jgbc)
+- [JelloSmash](https://www.youtube.com/watch?v=BnrvvT0OJAE)
 
-<h3 align="left">Connect with me</h3>
+### Connect with me
 <p align="left">
 <a href="https://tedsieblog.wordpress.com/" target="blank"><img align="center" src="./Icons/wordpress.png" alt="tedsie" height="32" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/tedsie" target="blank"><img align="center" src="./Icons/linkedin.png" alt="tedsie" height="32" /></a>&nbsp;&nbsp;
 <a href="https://fb.com/tedsieblog" target="blank"><img align="center" src="./Icons/facebook.png" alt="tedsieblog" height="32" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+### Languages and Tools
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="blank"><img align="center" src="./Icons/csharp.png" alt="csharp" height="32"/></a>&nbsp;&nbsp;
 <a href="https://www.jenkins.io" target="blank"> <img align="center" src="./Icons/jenkins.png" alt="jenkins" height="32"/></a>&nbsp;&nbsp;
 <a href="https://unity.com/" target="blank"> <img align="center" src="./Icons/unity.png" alt="unity" height="32"/></a>
 </p>
 
-<h3 align="left">Stats</h3>
+### Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ted10401&show_icons=true&locale=en&layout=compact" alt="ted10401" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ted10401&show_icons=true&locale=en" alt="ted10401" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ted10401&" alt="ted10401" />
