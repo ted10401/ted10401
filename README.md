@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="./Icons/csharp.png" alt="csharp" width="32" height="32"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="./Icons/jenkins.png" alt="jenkins" width="32" height="32"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="./Icons/unity.png" alt="unity" width="32" height="32"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img align="center" src="./Icons/csharp.png" alt="csharp" height="32"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img align="center" src="./Icons/jenkins.png" alt="jenkins" height="32"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" src="./Icons/unity.png" alt="unity" height="32"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ted10401&show_icons=true&locale=en&layout=compact" alt="ted10401" /></p>
 
