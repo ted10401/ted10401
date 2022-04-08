@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ted10401&label=Profile%20views&color=0e75b6&style=flat" alt="ted10401" /> </p>
 
 ### Projects
-- [FateSeekerII](https://store.steampowered.com/app/1559390) (Currently working on)
+- [FateSeekerII](https://store.steampowered.com/app/1559390)
 - [Supercharged World Cup](https://www.youtube.com/watch?v=h5hp-VUBJXk)
 - [Rocketball: Championship Cup](https://www.youtube.com/watch?v=kt6DlSfHrjc)
 - [Independence Day : Extinction](https://www.youtube.com/watch?v=MZbq3Q0kqWA)
