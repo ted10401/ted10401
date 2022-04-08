@@ -4,12 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ted10401&label=Profile%20views&color=0e75b6&style=flat" alt="ted10401" /> </p>
 
 ### Projects
-- [FateSeekerII](https://store.steampowered.com/app/1559390)
-- [Supercharged World Cup](https://www.youtube.com/watch?v=h5hp-VUBJXk)
-- [Rocketball: Championship Cup](https://www.youtube.com/watch?v=kt6DlSfHrjc)
-- [Independence Day : Extinction](https://www.youtube.com/watch?v=MZbq3Q0kqWA)
-- [GuiltyGate](https://www.youtube.com/watch?v=B4bO-m5Jgbc)
-- [JelloSmash](https://www.youtube.com/watch?v=BnrvvT0OJAE)
+- [FateSeekerII](https://store.steampowered.com/app/1559390)<br>
+[![FateSeekerII](https://img.youtube.com/vi/K7rQFQlO0Uc/0.jpg)](https://store.steampowered.com/app/1559390)
+- [Supercharged World Cup](https://www.youtube.com/watch?v=h5hp-VUBJXk)<br>
+[![Supercharged World Cup](https://img.youtube.com/vi/h5hp-VUBJXk/0.jpg)](https://www.youtube.com/watch?v=h5hp-VUBJXk)
+- [Rocketball: Championship Cup](https://www.youtube.com/watch?v=kt6DlSfHrjc)<br>
+[![Rocketball: Championship Cup](https://img.youtube.com/vi/kt6DlSfHrjc/0.jpg)](https://www.youtube.com/watch?v=kt6DlSfHrjc)
+- [Independence Day : Extinction](https://www.youtube.com/watch?v=MZbq3Q0kqWA)<br>
+[![Independence Day : Extinction](https://img.youtube.com/vi/MZbq3Q0kqWA/0.jpg)](https://www.youtube.com/watch?v=MZbq3Q0kqWA)
+- [GuiltyGate](https://www.youtube.com/watch?v=B4bO-m5Jgbc)<br>
+[![GuiltyGate](https://img.youtube.com/vi/B4bO-m5Jgbc/0.jpg)](https://www.youtube.com/watch?v=B4bO-m5Jgbc)
+- [JelloSmash](https://www.youtube.com/watch?v=BnrvvT0OJAE)<br>
+[![JelloSmash](https://img.youtube.com/vi/BnrvvT0OJAE/0.jpg)](https://www.youtube.com/watch?v=BnrvvT0OJAE)
 
 ### Connect with me
 <p align="left">
