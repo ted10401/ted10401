@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ted Sie</h1>
-<h3 align="center">A passionate Unity developer from Taiwan.</h3>
+<h3 align="center">A passionate Unity developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ted10401&label=Profile%20views&color=0e75b6&style=flat" alt="ted10401" /> </p>
 
