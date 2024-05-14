@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ted10401&label=Profile%20views&color=0e75b6&style=flat" alt="ted10401" /> </p>
 
 ### Projects
+|                                  [妖狐的戀愛學程](https://store.steampowered.com/app/2453310/_/)                                  |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|          [![妖狐的戀愛學程](https://cdn.akamai.steamstatic.com/steam/apps/2453310/ss_8ec2345a90383fd92e632bdbb4773fb687a49607.1920x1080.jpg?t=1714120245)](https://cdn.akamai.steamstatic.com/steam/apps/256988117/movie480_vp9.webm?t=1702649335)         |
+
 |                                  [FateSeekerII](https://store.steampowered.com/app/1559390)                                  |                             [Supercharged World Cup](https://www.youtube.com/watch?v=h5hp-VUBJXk)                             |
 |:----------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
 |          [![FateSeekerII](https://img.youtube.com/vi/K7rQFQlO0Uc/0.jpg)](https://store.steampowered.com/app/1559390)         |     [![Supercharged World Cup](https://img.youtube.com/vi/iFq1mJQQEFo/0.jpg)](https://www.youtube.com/watch?v=iFq1mJQQEFo)    |
