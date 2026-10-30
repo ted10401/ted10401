@@ -19,7 +19,7 @@
 ### Connect with me
 <p align="left">
 <a href="https://tedsieblog.wordpress.com/" target="blank"><img align="center" src="./Icons/wordpress.png" alt="tedsie" height="32" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/tedsie" target="blank"><img align="center" src="./Icons/linkedin.png" alt="tedsie" height="32" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ted-sie/" target="blank"><img align="center" src="./Icons/linkedin.png" alt="tedsie" height="32" /></a>&nbsp;&nbsp;
 <a href="https://fb.com/tedsieblog" target="blank"><img align="center" src="./Icons/facebook.png" alt="tedsieblog" height="32" /></a>
 </p>
 
